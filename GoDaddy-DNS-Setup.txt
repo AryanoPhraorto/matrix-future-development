@@ -1,0 +1,17 @@
+﻿STEP 1: LOGIN TO GODADDY
+1. Go to: https://godaddy.com
+2. Click 'Sign In' (top right)
+3. Enter your email and password
+4. You'll see your dashboard
+
+STEP 2: FIND YOUR DOMAINS
+1. Click 'My Products' 
+2. Find 'Domains' section
+3. You'll see: matrixfuture.dev, matrixfuture.net, matrixfuture.biz
+4. We'll configure matrixfuture.dev FIRST
+
+STEP 3: ACCESS DNS MANAGEMENT
+1. Find 'matrixfuture.dev' in your list
+2. Click the 3 dots (...) next to it
+3. Select 'Manage DNS'
+4. You'll see DNS Records table

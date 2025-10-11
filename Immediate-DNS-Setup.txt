@@ -1,0 +1,18 @@
+﻿🚀 QUICK DNS SETUP FOR matrixfuture.dev:
+
+IMMEDIATE RECORDS TO ADD:
+
+TYPE: A
+NAME: @
+VALUE: 76.76.21.21
+TTL: 3600
+
+TYPE: CNAME  
+NAME: www
+VALUE: cname.vercel-dns.com
+TTL: 3600
+
+TYPE: TXT
+NAME: @  
+VALUE: forward-email=contact@matrixfuture.dev
+TTL: 3600

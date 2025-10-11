@@ -1,0 +1,24 @@
+﻿IN GODADDY DNS MANAGEMENT FOR matrixfuture.dev:
+
+DELETE EXISTING RECORDS (if any):
+• Remove any existing A records
+• Remove any existing CNAME records
+
+ADD THESE NEW RECORDS:
+
+TYPE: A
+Name: @
+Value: 76.76.21.21
+TTL: 1 hour
+
+TYPE: CNAME  
+Name: www
+Value: cname.vercel-dns.com
+TTL: 1 hour
+
+TYPE: TXT
+Name: @
+Value: forward-email=contact@matrixfuture.dev
+TTL: 1 hour
+
+SAVE CHANGES!

@@ -1,0 +1,25 @@
+﻿🎯 MATRIX FUTURE DOMAIN STRATEGY - DNS CONFIGURATION
+
+DOMAINS TO ACTIVATE:
+1. matrixfuture.dev     -> MAIN SITE (Premium)
+2. matrixfuture.net     -> NETWORK & API  
+3. matrixfuture.biz     -> BUSINESS & CLIENTS
+
+DNS SETTINGS FOR VERCEL (Recommended):
+
+🌐 matrixfuture.dev (Main Site):
+CNAME: www -> cname.vercel-dns.com
+A: @ -> 76.76.21.21
+
+🌐 matrixfuture.net (API & Tech):
+CNAME: api -> cname.vercel-dns.com
+CNAME: docs -> cname.vercel-dns.com
+
+🌐 matrixfuture.biz (Business):
+CNAME: clients -> cname.vercel-dns.com
+CNAME: portal -> cname.vercel-dns.com
+
+EMAIL CONFIGURATION:
+MX: @ -> mx1.forwardemail.net
+MX: @ -> mx2.forwardemail.net  
+TXT: @ -> forward-email=contact@matrixfuture.dev

@@ -1,0 +1,21 @@
+﻿🔎 HOW TO FIND YOUR DOMAIN REGISTRAR:
+
+1. CHECK YOUR EMAIL:
+   • Search "matrixfuture.dev" in your email
+   • Look for domain purchase confirmation
+   • Identify the company name
+
+2. CHECK CREDIT CARD STATEMENT:
+   • Look for recent domain purchase
+   • Identify the merchant name
+
+3. TRY LOGGING INTO:
+   • Namecheap.com (with your common credentials)
+   • GoDaddy.com 
+   • domains.google.com
+   • cloudflare.com
+
+4. WHOIS LOOKUP (if needed):
+   • Visit whois.com
+   • Enter matrixfuture.dev
+   • See registrar information
