@@ -4,7 +4,11 @@
       <nav className="fixed top-0 w-full bg-gray-800 shadow-lg z-50">
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl font-bold text-green-400">Matrix Future Development</h1>
+            <h1 className="text-2xl font-bold">
+              <span className="text-green-400">MATRIX FUTURE</span>
+              <span className="text-white"> - </span>
+              <span className="text-cyan-400">DEEPSEEK</span>
+            </h1>
             <div className="flex space-x-6">
               <a href="/" className="hover:text-green-400">Home</a>
               <a href="/services" className="hover:text-green-400">Services</a>
@@ -20,8 +24,12 @@
       {/* Hero Section */}
       <div className="pt-20">
         <div className="container mx-auto px-4 py-16 text-center">
-          <h1 className="text-6xl font-bold mb-6">Matrix Future Development</h1>
-          <p className="text-2xl mb-8">Building Tomorrow&apos;s Solutions Today</p>
+          <h1 className="text-6xl font-bold mb-6">
+            <span className="text-green-400">MATRIX FUTURE</span>
+            <span className="text-white"> - </span>
+            <span className="text-cyan-400">DEEPSEEK</span>
+          </h1>
+          <p className="text-2xl mb-8">Intelligent Solutions, Deep Innovation</p>
           <p className="text-xl max-w-2xl mx-auto mb-8">
             We build intelligent web applications, AI-powered solutions, and data-driven platforms 
             that transform businesses and drive innovation.

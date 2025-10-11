@@ -1,8 +1,8 @@
 ﻿import './globals.css'
 
 export const metadata = {
-  title: 'Matrix Future Development',
-  description: 'Building Tomorrow\'s Solutions Today',
+  title: 'Matrix Future - DeepSeek',
+  description: 'Intelligent Solutions, Deep Innovation',
 }
 
 export default function RootLayout({
